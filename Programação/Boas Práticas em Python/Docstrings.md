@@ -1,6 +1,9 @@
 Por que utilizar Docstrings? Daqui alguns meses, quando precisar revisitar a função que você escreveu, descobrirá a resposta.
+
 Uma função escrita hoje em dia parecerá óbvio para você, que saberá de cabo a rabo o que ela retorna, como é utilizada e onde. Existe, porém, uma entidade maligna conhecida como "**Fada do Esquecimento**". 
+
 Essa fada surge enquanto dormimos e utiliza uma técnica proibida conhecida como "Mugic" para limpar nosso cérebro, em específico a região do Hipocampo, apagando todas as nossas memórias. Então, somos visitados pela fada e, no dia seguinte, quando vamos mexer no código... Esquecemos o que ele faz.
+
 Infelizmente, não há um jeito de destruir a fada, ela sempre conseguirá deturpar nossas memórias ao longo do tempo. O melhor jeito de lidar com isso é justamente utilizando Docstrings, para documentar no próprio código tudo que nossas funções e métodos recebem, retornam, os erros possíveis e dar exemplos de uso, para que outras pessoas saibam como utilizá-los no código, e no futuro você mesmo possa usar, caso se esqueça.
 
 # O que são Docstrings?

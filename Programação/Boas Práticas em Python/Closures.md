@@ -1,4 +1,5 @@
 Quais nomes na história não precisam ser nomeados para serem lembrados? 
+
 Pense nos indivíduos **MAIS FAMOSOS E INFLUENTES NA HISTÓRIA DA CIVILIZAÇÃO HUMANA**. Talvez você recorde de nomes como Jesus Cristo de Nazaré, Caio Júlio César, Michael Jackson, Albert Einstein, Sir Isaac Newton, Wolfgang Amadeus Mozart, Eu (Em algum momento no futuro)... pois bem, arquétipos que, para o bem ou para o mal, marcaram seu nome na história. Suas lendas estão marcadas no consciente coletivo da humanidade, tornando-se símbolos que não precisam ser nomeados.
 
 Em Python, temos algo parecido: Closures. Funções que se recordam de variáveis externas, mesmo que essas variáveis não sejam passadas como parâmetros nas funções quando chamadas.
@@ -37,6 +38,7 @@ def salutation(praise: str):
     return genius
 ```
  Note que a função `salutation()`, que está no lado externo, retorna a própria função `genius()`, no lado interno. Ela também recebe um parâmetro `praise: str`. Uma string que, para nosso exemplo, carregará uma saudação como "Olá".
+ 
  A função `genius()`, por sua vez, executa a lógica e retorna uma string formatada com `praise: str`, que é passada como parâmetro na função externa, e `name: str`, que é passada como parâmetro na função `genius()`.
  
  E agora... magia!
@@ -57,7 +59,9 @@ print(praiser("Mozart"))
 print(praiser("Newton"))
 ```
 Invocamos as funções com a variável intermediária `praiser()`, que está armazenando a função `genius()` — já que `genius()` é o retorno de `salutation()`, e invocamos ela ao definirmos `praiser()` — e definimos o parâmetro como o nome de quem será saudado.
+
 O parâmetro de `salutation()` foi lembrado!
+
 E o melhor de tudo, você pode criar variações da mesma função! Confira no código abaixo:
 ```python
 def salutation(praise: str):
@@ -95,6 +99,7 @@ Nosso exemplo é apenas uma saudação besta, para fins didáticos, então você
 
 ## Exemplo TITÂNICO
 Conhece a biblioteca **Pandas**? Caso não, tenho um artigo sobre ele que você pode acessar clicando [[Pandas|aqui]].
+
 Mas, apenas introduzindo, **Pandas** é uma biblioteca utilizada para manipular Datasets, ler conjuntos de dados, organizar planilhas, etc. Seu nome é derivado de "Panel Data", que é um termo amplamente utilizado em estatística, econometria e áreas correlatas.
 <p align="center"> <img src="../../Images/PoEating.png" width="100%"> <br> <em>A biblioteca Pandas não tem nada a ver com Kung-Fu... Mas seria legal se tivesse!</em> </p>
 
@@ -176,4 +181,5 @@ transformed_df = (df.pipe(remove_lines(0, 2, mode='interval'))
 				.pipe(rename_columns('AA', 'SQ')) )
 ```
 Não há adjetivo melhor para definir isso do que **ELEGANTE**!
+
 A utilização de closures nos permitiu utilizar funções em cadeia com `pipe`, funcionando exatamente como uma linha de montagem, onde cada resultado de função é passado como parâmetro para a próxima função, em sequência. Além de nos poupar diversas linhas de código, permite dinamismo, melhor legibilidade e manutenção de código.

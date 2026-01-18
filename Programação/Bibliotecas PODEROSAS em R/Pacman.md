@@ -58,4 +58,5 @@ p_author()
 
 ## Dica de Diamante
 Utilize os comandos do Pacman utilizando `pacman::` antes do método específico. "**::**" é um operador chamado "Operador de Namespace". Ele nos permite utilizar atributos e métodos de alguma biblioteca sem precisarmos importar ela com `library()`. Ao utilizar `pacman::p_update()`, por exemplo, estamos dizendo ao R para executar o comando `p_update()` da biblioteca pacman, mas sem importá-la toda no código.
+
 Além do mais, o operador de namespace é especialmente útil quando existem duas bibliotecas que utilizam funções diferentes com o mesmo nome.
