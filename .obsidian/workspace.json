@@ -1,0 +1,230 @@
+{
+  "main": {
+    "id": "4a5e0566b2e4fec6",
+    "type": "split",
+    "children": [
+      {
+        "id": "432a3babbd16b421",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "386b01288d1f7408",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programação/Boas Práticas em Python/Closures.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Closures"
+            }
+          },
+          {
+            "id": "0f959968facdf4fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programação/Boas Práticas em Python/Docstrings.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Docstrings"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4c11906cff018f2d",
+    "type": "split",
+    "children": [
+      {
+        "id": "de195208c0635bf7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7518c8d4db7a6f1e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "ec745764993e72d9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "352fd4003e35e965",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "988df73b10d3eaf4",
+    "type": "split",
+    "children": [
+      {
+        "id": "e0f5504f6beabb45",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0c5bc6f616d21826",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Programação/Bibliotecas PODEROSAS em R/Stringr.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para Stringr"
+            }
+          },
+          {
+            "id": "241e9fdb1c728277",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Bem-vindo.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para Bem-vindo"
+            }
+          },
+          {
+            "id": "bc07de46215a4e00",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "2885135af9809bc0",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas as propriedades"
+            }
+          },
+          {
+            "id": "6640220880e31e61",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Bem-vindo.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de Bem-vindo"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Criar nova base": false,
+      "obsidian-excalidraw-plugin:New drawing": false
+    }
+  },
+  "active": "0f959968facdf4fa",
+  "lastOpenFiles": [
+    "Programação/Bibliotecas PODEROSAS em R/Pacman.md",
+    "Images/Docstring.png",
+    "Programação/Boas Práticas em Python/Docstrings.md",
+    "Sem título.md",
+    "Programação/Documentações Orgásmicas.md",
+    "Programação/Boas Práticas em Python/Closures.md",
+    "Programação/Boas Práticas em Python/Pandas.md",
+    "Excalidraw/Drawing 2026-01-07 00.09.22.excalidraw.md",
+    "Images/PacmanPng.png",
+    "Programação/Bibliotecas PODEROSAS em R/Stringr.md",
+    "2026-01-01.md",
+    "ChatGPT Image 26 de nov. de 2025, 00_01_19.png",
+    "Excalidraw/Drawing 2026-01-01 18.44.51.excalidraw.md",
+    "Programação/Drawing 2026-01-01 18.43.23.excalidraw.md",
+    "Excalidraw",
+    "Nirvana.md",
+    "Images/PoEating.png",
+    "Programação/Boas Práticas em Python",
+    "Programação",
+    "Programação/Bibliotecas PODEROSAS em R",
+    "Images",
+    "PacmanPNG.png",
+    "Pasted image 20251224203831.png",
+    "Pasted image 20251224203723.png",
+    "Bem-vindo.md"
+  ]
+}
