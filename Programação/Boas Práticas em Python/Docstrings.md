@@ -58,7 +58,7 @@ magic_shield(current_mana: int) -> str
         print(magic_shield(40))  # Levanta ValueError
 ```
 E caso esteja usando PyCharm, Visual Studio Code ou alguma outra IDE poderosa, Docstrings se tornam **AINDA MAIS** poderosas, já que você pode repousar o mouse sobre a função e será exibida uma janela Pop-Up com sua Docstring.
-<center><img src="Images/Docstring.png" /><br />
+<center><img src="../../Images/Docstring.png" /><br />
 
 É útil, mas lembre-se que lendas da programação não usam o mouse.</center>
 
