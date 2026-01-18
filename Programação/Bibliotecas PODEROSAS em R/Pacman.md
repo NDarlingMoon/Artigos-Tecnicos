@@ -1,6 +1,6 @@
 Quando se é Noob em R, costumamos importar bibliotecas usando o clássico `install.packages("tidyverse")` seguido de `library(tidyverse)` para importá-la no código.
 Evoluindo um pouco, descobre-se que validar se a instalação já foi feita é uma boa prática, então passamos a utilizar `if(!require(tidyverse)) install.packages("tidyverse")`. Eu estava justamente nesse nível... **ATÉ HOJE!!!**
-<p align="center"> <img src="Images/PacmanPng.png" width="60%"> <br> <b>Sim, Pacman é o Herói que elevará o nível de nosso R!</b> </p>
+<p align="center"> <img src="../../Images/PacmanPng.png" width="60%"> <br> <b>Sim, Pacman é o Herói que elevará o nível de nosso R!</b> </p>
 # Pacman
 Você pode (E DEVE!) conferir a documentação do Pacman para R clicando [aqui](https://www.rdocumentation.org/packages/pacman).
 Pacman, abreviação de Package Manager, é uma poderosa biblioteca para gerenciar seus pacotes.
