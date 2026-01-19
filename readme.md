@@ -77,5 +77,5 @@
 ### Conceitos
 - [Closures](Programação/Python/Conceitos/Closures.md)
 ### Boas Práticas
-- [Docstrings](Programação/Python/Boas Práticas/Docstrings.md)
+- [Docstrings](Programação/Python/BoasPraticas/Docstrings.md)
 ### Ferramentas
