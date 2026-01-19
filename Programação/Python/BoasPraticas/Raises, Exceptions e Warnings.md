@@ -13,10 +13,10 @@ Como escolher cada um? Vejamos:
 
 Vamos aprofundar melhor...
 # Raises
-Se tem uma boa frase para definir o que é um Raise, seria essa:
+Se tem uma boa frase para definir o que é uma Raise, seria essa:
 > Pare! Até quando você quer mandar e mudar minha vida?
 
-Todo problema deve ser tratado de forma diferente, e o Raise é utilizado justamente nos casos onde não é possível fazer nada. Só podemos... Parar. Pense que Raises não são erros inesperados, mas uma decisão consciente de parar a execução pois continuar corromperia o estado do programa. Não há defeito algum nisso.
+Todo problema deve ser tratado de forma diferente, e a Raise é utilizada justamente nos casos onde não é possível fazer nada. Só podemos... Parar. Pense que Raises não são erros inesperados, mas uma decisão consciente de parar a execução pois continuar corromperia o estado do programa. Não há defeito algum nisso.
 
 Aqui temos um exemplo de Raise bem simples e funcional...
 ```python
@@ -26,7 +26,7 @@ def divide(a, b):
 
 	return a / b
 ```
-Note que o Raise utilizado foi "ZeroDivisionError", mas poderia ser outro tipo de erro. Veja o exemplo:
+Note que a Raise utilizada foi "ZeroDivisionError", mas poderia ser outro tipo de erro. Veja o exemplo:
 ```python
 def divide(a, b):
 	if b == 0:
@@ -36,7 +36,7 @@ def divide(a, b):
 
 	return a / b
 ```
-Existem diversos tipos de Raises existentes, cada um para um tipo de erro específico que pode ocorrer. Levantar exceções específicas é essencial para que quem execute seu código possa tratá-las corretamente.
+Existem diversos tipos de Raises existentes, cada uma para um tipo de erro específico que pode ocorrer. Levantar exceções específicas é essencial para que quem execute seu código possa tratá-las corretamente.
 
 E o melhor, você também pode criar suas próprias Raises!!!
 ```python
