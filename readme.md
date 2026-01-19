@@ -64,8 +64,8 @@
 
 ## Artigos sobre R
 ### Bibliotecas
-[Pacman](Programação/R/Bibliotecas/Pacman.md)
-[StringR](Programação/R/Bibliotecas/Stringr.md)
+- [Pacman](Programação/R/Bibliotecas/Pacman.md)
+- [StringR](Programação/R/Bibliotecas/Stringr.md)
 ### Conceitos
 ### Boas Práticas
 ### Ferramentas
@@ -73,9 +73,9 @@
 
 ## Artigos sobre Python
 ### Bibliotecas
-[Pandas](Programação/Python/Bibliotecas/Pandas.md)
+- [Pandas](Programação/Python/Bibliotecas/Pandas.md)
 ### Conceitos
-[Closures](Programação/Python/Conceitos/Closures.md)
+- [Closures](Programação/Python/Conceitos/Closures.md)
 ### Boas Práticas
-[Docstrings](Programação/Python/Boas Práticas/Docstrings.md)
+- [Docstrings](Programação/Python/Boas Práticas/Docstrings.md)
 ### Ferramentas
