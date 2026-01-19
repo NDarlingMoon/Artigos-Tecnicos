@@ -4,9 +4,11 @@
       <img src="Images/Paimon.png" width="100%">
     </td>
     <td width="60%" style="border: none; width: 60%; vertical-align: middle; text-align: justify; text-justify: inter-word;">
-      <h2>Olá, Viajante!</h2><br>
-      Querendo aprender Python ou R?<br>
-      Este repositório foi criado para te guiar nessa jornada. Nele você encontrará diversos artigos que falam sobre boas práticas, ferramentas, bibliotecas e tudo mais que possa ser útil em sua jornada. 
+      <h2>Olá, Viajante!</h2>
+      <p style="margin: 0; padding: 0;">Querendo aprender Python ou R?</p>
+      <p style="margin: 0; padding: 0;">Este repositório foi criado para te guiar nessa jornada!</p>
+      <p style="margin: 0; padding: 0;">Nele você encontrará diversos artigos que falam sobre boas práticas, ferramentas, conceitos, bibliotecas e tudo mais que possa ser útil em sua jornada.
+	  </p>
     </td>
   </tr>
   
@@ -62,4 +64,18 @@
 
 ## Artigos sobre R
 ### Bibliotecas
-[Pacman](Programação\R\Bibliotecas\Pacman)
+[Pacman](Programação/R/Bibliotecas/Pacman.md)
+[StringR](Programação/R/Bibliotecas/Stringr.md)
+### Conceitos
+### Boas Práticas
+### Ferramentas
+
+
+## Artigos sobre Python
+### Bibliotecas
+[Pandas](Programação/Python/Bibliotecas/Pandas.md)
+### Conceitos
+[Closures](Programação/Python/Conceitos/Closures.md)
+### Boas Práticas
+[Docstrings](Programação/Python/Boas Práticas/Docstrings.md)
+### Ferramentas

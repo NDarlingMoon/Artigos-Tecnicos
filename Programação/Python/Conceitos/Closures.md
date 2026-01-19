@@ -101,7 +101,7 @@ Nosso exemplo é apenas uma saudação besta, para fins didáticos, então você
 Conhece a biblioteca **Pandas**? Caso não, tenho um artigo sobre ele que você pode acessar clicando [[Pandas|aqui]].
 
 Mas, apenas introduzindo, **Pandas** é uma biblioteca utilizada para manipular Datasets, ler conjuntos de dados, organizar planilhas, etc. Seu nome é derivado de "Panel Data", que é um termo amplamente utilizado em estatística, econometria e áreas correlatas.
-<p align="center"> <img src="../../Images/PoEating.png" width="100%"> <br> <em>A biblioteca Pandas não tem nada a ver com Kung-Fu... Mas seria legal se tivesse!</em> </p>
+<p align="center"> <img src="../../../Images/PoEating.png" width="100%"> <br> <em>A biblioteca Pandas não tem nada a ver com Kung-Fu... Mas seria legal se tivesse!</em> </p>
 
 Para nosso exemplo a seguir, irei assumir que sabe minimamente utilizar o Pandas. Caso não saiba, lembre-se de conferir o [[Pandas|outro artigo]] antes.
 
