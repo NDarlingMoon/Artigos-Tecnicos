@@ -7,7 +7,7 @@
       <h2>Olá, Viajante!</h2>
       <p style="margin: 0; padding: 0;">Querendo aprender Python ou R?</p>
       <p style="margin: 0; padding: 0;">Este repositório foi criado para te guiar nessa jornada!</p>
-      <p style="margin: 0; padding: 0;">Nele você encontrará diversos artigos que falam sobre boas práticas, ferramentas, conceitos, bibliotecas e tudo mais que possa ser útil em sua jornada.
+      <p style="margin: 0; padding: 0;">Nele você encontrará diversos artigos que falam sobre boas práticas, ferramentas, conceitos, bibliotecas e tudo mais que possa ser útil em sua viagem de aprendizado.
 	  </p>
     </td>
   </tr>
@@ -61,11 +61,13 @@
 </p>
 
 # Conteúdo do Repositório
+Abaixo você pode consultar o sumário, com links para cada artigo.
+Novos artigos são feitos periodicamente, então sinta-se livre para pedir algum específico que ainda não esteja por aqui.
 
 ## Artigos sobre R
 ### Bibliotecas
-- [Pacman](Programação/R/Bibliotecas/Pacman.md)
-- [StringR](Programação/R/Bibliotecas/Stringr.md)
+- [Pacman](Programação/R/Bibliotecas/Pacman.md) - Biblioteca para gerenciamento de bibliotecas no R
+- [StringR](Programação/R/Bibliotecas/Stringr.md) - Biblioteca para manipulação de strings no R
 ### Conceitos
 ### Boas Práticas
 ### Ferramentas
@@ -73,9 +75,9 @@
 
 ## Artigos sobre Python
 ### Bibliotecas
-- [Pandas](Programação/Python/Bibliotecas/Pandas.md)
+- [Pandas](Programação/Python/Bibliotecas/Pandas.md) - Biblioteca para manipulação de datasets no Python
 ### Conceitos
-- [Closures](Programação/Python/Conceitos/Closures.md)
+- [Closures](Programação/Python/Conceitos/Closures.md) - Funções aninhadas que retornam funções e memorizam estados anteriores
 ### Boas Práticas
-- [Docstrings](Programação/Python/BoasPraticas/Docstrings.md)
+- [Docstrings](Programação/Python/BoasPraticas/Docstrings.md) - Strings para documentação de funções
 ### Ferramentas
