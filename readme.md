@@ -86,7 +86,7 @@ Novos artigos são feitos periodicamente, então sinta-se livre para pedir algum
 
 ## ®️ Artigos sobre R
 ### 📚 Bibliotecas
-- [Pacman](Pacman.md) - Biblioteca para gerenciamento de bibliotecas no R (PS: Artigo assombrado por 4 fantasmas).
+- [Pacman](Programacao/R/Bibliotecas/Pacman.md) - Biblioteca para gerenciamento de bibliotecas no R (PS: Artigo assombrado por 4 fantasmas).
 - [StringR](Stringr.md) - Biblioteca para manipulação de strings no R.
 ### 📖 Conceitos
 ### 🦄 Boas Práticas
