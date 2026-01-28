@@ -22,3 +22,9 @@ Para tal, definiremos os pilares da **Documentação Orgásmica** aqui:
 Ter esses conceitos claros na hora de escrever sua documentação fará com que ela não seja "apenas mais uma", mas sim uma experiência digna de elevar-nos ao Nirvana.
 
 ## Pilares do Diátaxis
+| **Tipo**             | **Foco**    | **Objetivo**                                   | **Analogia**                           |
+| -------------------- | ----------- | ---------------------------------------------- | -------------------------------------- |
+| **Tutoriais**        | Aprendizado | Guiar um iniciante em uma lição prática.       | "Vem cá, vou segurar sua mão."         |
+| **Guias de Receita** | Tarefas     | Resolver um problema específico passo a passo. | "Como fazer um omelete de plutônio."   |
+| **Explicações**      | Compreensão | Discutir o contexto e os conceitos teóricos.   | "A filosofia por trás do omelete."     |
+| **Referência**       | Informação  | Descrição técnica (API, classes, métodos).     | "A tabela periódica dos ingredientes." |

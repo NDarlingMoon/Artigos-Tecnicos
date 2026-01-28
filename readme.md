@@ -5,7 +5,7 @@
     </td>
     <td width="60%" style="border: none; width: 60%; vertical-align: middle; text-align: justify; text-justify: inter-word;">
       <h2>Olá, Viajante!</h2>
-      <p style="margin: 0; padding: 0;">Querendo aprender Python ou R?</p>
+      <p style="margin: 0; padding: 0;">Querendo aprender Python, R, Estatística ou Matemática?</p>
       <p style="margin: 0; padding: 0;">Este repositório foi criado para te guiar nessa jornada!</p>
       <p style="margin: 0; padding: 0;">Nele você encontrará diversos artigos que falam sobre boas práticas, ferramentas, conceitos, bibliotecas e tudo mais que possa ser útil em sua viagem de aprendizado.
 	  </p>
@@ -66,8 +66,8 @@ Novos artigos são feitos periodicamente, então sinta-se livre para pedir algum
 
 ## Artigos sobre R
 ### Bibliotecas
-- [Pacman](Programação/R/Bibliotecas/Pacman.md) - Biblioteca para gerenciamento de bibliotecas no R
-- [StringR](Programação/R/Bibliotecas/Stringr.md) - Biblioteca para manipulação de strings no R
+- [Pacman](Pacman.md) - Biblioteca para gerenciamento de bibliotecas no R
+- [StringR](Stringr.md) - Biblioteca para manipulação de strings no R
 ### Conceitos
 ### Boas Práticas
 ### Ferramentas
@@ -75,9 +75,9 @@ Novos artigos são feitos periodicamente, então sinta-se livre para pedir algum
 
 ## Artigos sobre Python
 ### Bibliotecas
-- [Pandas](Programação/Python/Bibliotecas/Pandas.md) - Biblioteca para manipulação de datasets no Python
+- [Pandas](Pandas.md) - Biblioteca para manipulação de datasets no Python
 ### Conceitos
-- [Closures](Programação/Python/Conceitos/Closures.md) - Funções aninhadas que retornam funções e memorizam estados anteriores
+- [Closures](Closures.md) - Funções aninhadas que retornam funções e memorizam estados anteriores
 ### Boas Práticas
-- [Docstrings](Programação/Python/BoasPraticas/Docstrings.md) - Strings para documentação de funções
+- [Docstrings](Docstrings.md) - Strings para documentação de funções
 ### Ferramentas
