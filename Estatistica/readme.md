@@ -43,6 +43,7 @@ Novos artigos são feitos periodicamente, então sinta-se livre para pedir algum
 
 ## Malenia, Lâmina de Miquella (Já ouviu falar de 'TEPT'?)
 <p align="center"> <img src="../Images/MaleniaBladeOfMiquela.png" width="100%"> <br> <em>知り得たか？ミケラの刃、マレニアを。</em> </p>
+
 - [Redes Neurais](redesneurais.md) - Aqui tentamos simular cérebros no computador. Se alguém que construísse robôs tivesse um pingo da minha genialidade, provavelmente máquinas também sentiriam tesão.
 - [Machine Learning](ml.md) - Ensinar máquinas a aprender e pensar para que resolvam problemas complexos e um dia possamos transar com elas.
 - [Deep Learning](dl.md) - Igual ao Machine Learning... mas um pouco mais profundo na garganta.
