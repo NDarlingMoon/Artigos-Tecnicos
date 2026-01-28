@@ -20,11 +20,11 @@ Em resumo, podemos definir:
     _Ex.: Gamers tendem a ser solteiros. Não é por jogar, é por não saírem de casa._
 
 Veja o diagrama para ficar ainda mais claro:
-- **Correlação + Causalidade:** $A \rightarrow B$
+- **Correlação + Causalidade:** $A \rightarrow B$  
 	Evento $A$ atua diretamente para que o Evento $B$ ocorra.
-- **Causalidade Indireta:** $A \rightarrow C \rightarrow B$
+- **Causalidade Indireta:** $A \rightarrow C \rightarrow B$  
 	Evento $A$ não atua diretamente para que o Evento $B$ ocorra, mas Evento $A$ gera Evento $C$, e Evento $C$ gera Evento $B$.
-- **Espúria:** $C \rightarrow A$ e $C \rightarrow B$
+- **Espúria:** $C \rightarrow A$ e $C \rightarrow B$  
     Evento $A$ não atua diretamente para que o Evento $B$ ocorra. Ambos Evento $A$ e Evento $B$ são causados por Evento $C$, dando a impressão de que estão diretamente relacionados, quando não estão.
 
 ## Variável Mediadora
