@@ -11,7 +11,7 @@ Imagine que enquanto você procurava sabonetes para manter a boa higiene (Lembre
 Embora esteja com o dobro do preço do sabonete normal, você decide confiar no sabonete e comprar 6 unidades do mesmo.
 
 Apesar de a informação ser verídica, está totalmente fora de contexto. Pense melhor...  
-Por que você compraria um sabonete antibactericida para me proteger numa pandemia ocasionada por um vírus? Você é idiota, ignorante ou só desatento? Além do mais, ameaças imunológicas são extremamente abrangentes. A frase “10 vezes mais ameaças imunológicas” significa que muitas outras ameaças estarão incluídas na proteção do sabonete, e não que o sabonete é 10 vezes mais eficaz. E mesmo que o sabonete seja extremamente eficiente contra vírus (Aliás, todos são), se tratando de um vírus novo, claramente não estará incluído nessa proteção pois nunca houveram pesquisas o bastante sobre ele para que fosse possível desenvolver uma fórmula adequada.
+Por que você compraria um sabonete antibactericida para se proteger numa pandemia ocasionada por um vírus? Você é idiota, ignorante ou só desatento? Além do mais, ameaças imunológicas são extremamente abrangentes. A frase “10 vezes mais ameaças imunológicas” significa que muitas outras ameaças estarão incluídas na proteção do sabonete, e não que o sabonete é 10 vezes mais eficaz. E mesmo que o sabonete seja extremamente eficiente contra vírus (Aliás, todos são), se tratando de um vírus novo, claramente não estará incluído nessa proteção pois nunca houveram pesquisas o bastante sobre ele para que fosse possível desenvolver uma fórmula adequada.
 
 Este exemplo é conhecido como **Efeito de Enquadramento**, um viés cognitivo que influencia decisões pela forma como a informação foi apresentada. Quem fez a propaganda queria fazer o consumidor de otário — e muito provavelmente conseguiu.
 
@@ -25,6 +25,7 @@ Dito isso...
 Imagine que um homem querendo ficar mais alto decida fazer uma cirurgia extremamente invasiva para aumentar sua altura. Quando o médico começa a explicar sobre a cirurgia, pode informar sobre os resultados de duas formas possíveis:
 - **"Este procedimento possui 90% de chance de sucesso!"** — Enquadramento Positivo
 - **"Este procedimento possui 10% de chance de fracasso..."** — Enquadramento Negativo
+
 Matematicamente falando, não muda nada. Apesar disso, o impacto em nossa mente ao ouvir a palavra "fracasso" é absurdamente maior. O cérebro humano é programado para evitar dor, e quem conhece isso pode manipular informações como um verdadeiro Mestre das Marionetes.
 
 *Aliás, eu prefiro homens baixinhos. Assim dá pra gente dividir nossas roupas.*
