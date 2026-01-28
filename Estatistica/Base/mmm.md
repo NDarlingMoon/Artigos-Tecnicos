@@ -6,14 +6,14 @@ Mas o que isso significa na prática?
 ## Moda
 Moda é o conceito mais simples de se entender. Quando falamos "Moda" na estatística, queremos dizer sobre o valor que mais aparece em determinada pesquisa. Veja a tabela abaixo, com dados _Categóricos Nominais_:
 
-| Entrevistado   | Banda Favorita |
-| -------------- | -------------- |
-| Eddie          | Iron Maiden    |
-| Modified Bear  | Radiohead      |
-| Vic Rattlehead | Megadeth       |
-| Murralsee      | DIO            |
-| Snaggletooth   | Motörhead      |
-| Papa Emeritus  | Ghost          |
+| Nome do Entrevistado | Banda Favorita |
+| -------------------- | -------------- |
+| Eddie                | Iron Maiden    |
+| Modified Bear        | Radiohead      |
+| Vic Rattlehead       | Megadeth       |
+| Murralsee            | DIO            |
+| Snaggletooth         | Motörhead      |
+| Papa Emeritus        | Ghost          |
 
 Qual a Moda dessa tabela?
 **NENHUMA!!!**  
@@ -30,7 +30,7 @@ Este exemplo não tem Moda pois não há um valor recorrente. Todos são diferen
 | Cardinal Copia       | Ghost          |
 | Frater Imperator     | Ghost          |
 
-Já no exemplo acima, note que a banda "Ghost" aparece 3 vezes, sendo o dado mais recorrente encontrado. Neste caso, Ghost é a Moda.
+Já no exemplo acima, note que a banda "Ghost" aparece 3 vezes, sendo o dado mais frequente. Neste caso, Ghost é a Moda.
 Sem segredo.
 Vamos ver outro exemplo abaixo, mas com dados _Descritivos Discretos_:
 

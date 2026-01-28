@@ -36,7 +36,7 @@ Matematicamente falando, não muda nada. Apesar disso, o impacto em nossa mente 
 Certa vez, um cara disse:
 > Minha avó fumava todo dia, enchia a cara todo fim de semana e só foi morrer aos 94 anos.
 
-Parabéns, sua avó é uma sobrevivente, porque pessoas com o mesmo estilo de vida já teriam morrido de câncer de pulmão ou cirrose décadas antes.
+Parabéns, sua avó é uma sobrevivente, porque pessoas com o mesmo estilo de vida já teriam morrido de câncer de pulmão ou cirrose décadas antes.  
 E uma vez também escutei:
 
 > Filho meu só vai entrar na faculdade se for para assinar contrato de compra e venda da instituição. Bill Gates desistiu de Harvard, Mark Zuckerberg também, Steve Jobs também e até mesmo Larry Ellison. Faculdade é perda de tempo.

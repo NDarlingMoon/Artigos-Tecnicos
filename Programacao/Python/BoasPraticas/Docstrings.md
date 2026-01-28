@@ -205,4 +205,4 @@ xdg-open build/html/index.html  # No Linux
 ```
 
 Sempre documente seus códigos! Eles são sua proteção contra a Fada do Esquecimento e um sinal elevado de maturidade computacional.  
-Aliás, já que terminou de ler sobre Docstrings, que tal ler sobre [Documentações Orgásmicas](DocumentaçõesOrgasmicas.md)?
+Aliás, já que terminou de ler sobre Docstrings, que tal ler sobre [Documentações Orgásmicas](DocumentacoesOrgasmicas.md)?
