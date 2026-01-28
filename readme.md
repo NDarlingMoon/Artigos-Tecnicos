@@ -101,5 +101,5 @@ Novos artigos são feitos periodicamente, então sinta-se livre para pedir algum
 ### 🦄 Boas Práticas
 - [Docstrings](Programacao/Python/BoasPraticas/Docstrings.md) - Strings para documentação de funções de uma forma como você nunca viu!
 - [Raises, Exceptions e Warnings](Programacao/Python/BoasPraticas/Raises_Exceptions_Warnings.md) - Artigo inútil para seres perfeitos. Se você é uma pessoa que erra, talvez valha a pena ler.
-- [Documentações Orgásmicas](Programacao/Python/BoasPraticas/DocumentacoesORgasmicas.md) - Escreva documentações que já servem como preliminares.
+- [Documentações Orgásmicas](Programacao/Python/BoasPraticas/DocumentacoesOrgasmicas.md) - Escreva documentações que já servem como preliminares.
 ### 🛠️ Ferramentas
