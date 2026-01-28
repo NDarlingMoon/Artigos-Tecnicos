@@ -68,12 +68,12 @@ Caso o leitor se sinta desconfortável com o tom, recomenda-se a leitura de manu
 Abaixo você pode consultar o sumário, com links para cada artigo.
 Novos artigos são feitos periodicamente, então sinta-se livre para pedir algum específico que ainda não esteja por aqui.
 
-## Artigos sobre Estatística
+## 📊 Artigos sobre Estatística
 - [Estatística Para Burros](Estatistica/readme.md) - Nosso curso politicamente incorreto para que você aprenda do básico ao avançado em Estatística.
 - [Modelos](Estatistica/Modelos/readme.md) - Aqui você pode aprender sobre diversos modelos matemáticos e estatísticos como ANOVA, ARIMA, Regressão Linear, PCA, Chobits, entre outros.
 
-## DevOps
-### Conteinerização 
+## 🤖 DevOps
+### 🐋 Conteinerização 
 - [Docker](Devops/Docker/readme.md) - Pare de dizer "No meu PC roda". Aprenda a empacotar seu código como um profissional!
 - [Kubernetes](Devops/K8s/readme.md) - Quando um Docker só não é o bastante. 
 ### 🛠️ CI/CD (Automação de Fluxo) 
@@ -84,22 +84,22 @@ Novos artigos são feitos periodicamente, então sinta-se livre para pedir algum
 ### 📈 Monitoramento e Logs 
 - [Prometheus & Grafana](Devops/Monitoring.md) - Gráficos bonitos para você saber quando seu servidor está prestes a explodir.
 
-## Artigos sobre R
-### Bibliotecas
+## ®️ Artigos sobre R
+### 📚 Bibliotecas
 - [Pacman](Pacman.md) - Biblioteca para gerenciamento de bibliotecas no R (PS: Artigo assombrado por 4 fantasmas).
 - [StringR](Stringr.md) - Biblioteca para manipulação de strings no R.
-### Conceitos
-### Boas Práticas
-### Ferramentas
+### 📖 Conceitos
+### 🦄 Boas Práticas
+### 🛠️ Ferramentas
 
 
-## Artigos sobre Python
-### Bibliotecas
+## 🐍 Artigos sobre Python
+### 📚 Bibliotecas
 - [Pandas](Pandas.md) - Biblioteca para manipulação de datasets no Python. Aqui você também terá insights sobre Kung-Fu.
-### Conceitos
+### 📖 Conceitos
 - [Closures](Closures.md) - Funções aninhadas que retornam funções e memorizam estados anteriores. ELEGANTE!!!
-### Boas Práticas
+### 🦄 Boas Práticas
 - [Docstrings](Programacao/Python/BoasPraticas/Docstrings.md) - Strings para documentação de funções de uma forma como você nunca viu!
 - [Raises, Exceptions e Warnings](Programacao/Python/BoasPraticas/Raises_Exceptions_Warnings.md) - Artigo inútil para seres perfeitos. Se você é uma pessoa que erra, talvez valha a pena ler.
 - [Documentações Orgásmicas](Programacao/Python/BoasPraticas/DocumentacoesORgasmicas.md) - Escreva documentações que já servem como preliminares.
-### Ferramentas
+### 🛠️ Ferramentas
