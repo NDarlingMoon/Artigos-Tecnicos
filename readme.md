@@ -74,8 +74,8 @@ Novos artigos são feitos periodicamente, então sinta-se livre para pedir algum
 
 ## 🤖 DevOps
 ### 🐋 Conteinerização 
-- [Docker](Devops/Docker/readme.md) - Pare de dizer "No meu PC roda". Aprenda a empacotar seu código como um profissional!
-- [Kubernetes](Devops/K8s/readme.md) - Quando um Docker só não é o bastante. 
+- [Docker](Devops/Docker/docker.md) - Pare de dizer "No meu PC roda". Aprenda a empacotar seu código como um profissional!
+- [Kubernetes](Devops/K8s/kubernetes.md) - Quando um Docker só não é o bastante. 
 ### 🛠️ CI/CD (Automação de Fluxo) 
 - [GitHub Actions](Devops/Actions.md) - Automatize seus Testes, Builds e Deploy como um *Master of Puppets*.
 ### ☁️ Infraestrutura como Código (IaC) 
