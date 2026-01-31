@@ -1,3 +1,5 @@
+# Docstrings
+
 Por que utilizar Docstrings? Daqui alguns meses, quando precisar revisitar a função que você escreveu, descobrirá a resposta.
 
 Uma função escrita hoje em dia parecerá óbvia para você, que saberá de cabo a rabo o que ela retorna, como é utilizada e onde. Existe, porém, uma entidade maligna conhecida como "**Fada do Esquecimento**". 

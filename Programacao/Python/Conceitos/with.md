@@ -1,11 +1,12 @@
 # With e Rollbacks
 <p align="center"> <img src="../../../Images/Duwang.png" width="100%"> <br> <em>Pessoas que usam <b>with</b> em seus códigos tendem a ter uma vida mais tranquila.</em> </p>
-Já pensou se você fosse capaz de voltar no tempo para corrigir seus erros?
+Já pensou se você fosse capaz de voltar no tempo para corrigir seus erros?  
 
 Imagine-se indo para o trabalho, mas, no meio do caminho, você é espancado violentamente por adolescentes e ninguém presta socorro imediato. Quando a ambulância finalmente chega para te socorrer, você já estava morto.  
 Agora, imagine que, ao ser espancado violentamente por adolescentes, chamam uma ambulância para você imediatamente, ligam para a polícia e fazem os primeiros socorros. E melhor ainda... O "Mago do Tempo" te faz voltar ao passado e você acorda na sua cama, como se tudo até aquele momento tivesse sido um sonho. Você voltou no tempo para impedir uma tragédia.
 <p align="center"> <img src="../../../Images/TimeWizard.png" width="30%"> <br> <em>Em outras palavras, o "with" nem sempre te salva da morte, mas sempre garante que seu corpo seja enterrado direito. </em> </p>
 O comando "With" do Python funciona mais ou menos dessa forma. Ao invocá-lo, você segue seu dia normalmente, mas caso aconteça alguma tragédia (Ser explodido, assassinado, sequestrado, desfigurado, entre outras possibilidades), ele automaticamente chamará a ambulância, a polícia, os bombeiros e quem mais for necessário. E com sorte, você ainda consegue voltar no tempo para tentar de novo.  
+
 "With" não impede que erros ocorram em seu código, ele apenas garante que, caso ocorra um erro, um plano de emergência será executado.
 
 ## Como o "with" funciona internamente?
