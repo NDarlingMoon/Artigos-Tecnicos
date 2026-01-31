@@ -1,10 +1,11 @@
+# Documentações Orgásmicas
 Documentação é que nem Sexo: Existem documentações maravilhosas e documentações péssimas, mas ter a documentação é sempre melhor do que não ter.
 Ou não... às vezes é preferível não ter a documentação de tão podre que ela é.
 De qualquer forma, queremos documentações orgásmicas, não? Do tipo que serão melhores do que qualquer tutorial que você encontre por aí.
 
 Mas, afinal, como escrever boas documentações? Este guia dará o passo a passo para que suas documentações sejam dignas de entrar para a história!
 
-# O que é uma **Documentação Orgásmica**?
+## O que é uma **Documentação Orgásmica**?
 
 **PARE!** Antes de começar a ler, ligue a trilha sonora: https://youtu.be/f0pdwd0miqs
 

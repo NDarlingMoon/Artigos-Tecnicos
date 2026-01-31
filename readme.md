@@ -101,6 +101,7 @@ Novos artigos são feitos periodicamente, então sinta-se livre para pedir algum
 - [With e Rollbacks](Programacao/Python/Conceitos/with.md) - O que você faria se pudesse voltar no tempo? Eu combateria "A Organização". El Psy Congroo!!
 ### 🦄 Boas Práticas
 - [Docstrings](Programacao/Python/BoasPraticas/Docstrings.md) - Strings para documentação de funções de uma forma como você nunca viu!
-- [Raises, Exceptions e Warnings](Programacao/Python/BoasPraticas/Raises_Exceptions_Warnings.md) - Artigo inútil para seres perfeitos. Se você é uma pessoa que erra, talvez valha a pena ler.
 - [Documentações Orgásmicas](Programacao/Python/BoasPraticas/DocumentacoesOrgasmicas.md) - Escreva documentações que já servem como preliminares.
+- [Raises, Exceptions e Warnings](Programacao/Python/BoasPraticas/Raises_Exceptions_Warnings.md) - Artigo inútil para seres perfeitos. Se você é uma pessoa que erra, talvez valha a pena ler.
+- [Testes Unitários e Mocks](Programacao/Python/BoasPraticas/testsandmocks.md) - Só me descobri Bissexual após testar pegar gente dos mais variados gêneros. Ficar só imaginando não prova nada... tem que testar. Sim, estamos falando sobre Programação.
 ### 🛠️ Ferramentas

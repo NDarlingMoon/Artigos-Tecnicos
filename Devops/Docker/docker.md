@@ -17,7 +17,7 @@ A maioria das pessoas usa Windows e a maioria das pessoas é medíocre. Você qu
 
 Eu mesma uso Windows para jogar joguinho, mas para trabalho e projetos sérios, fico longe do "*Janelas*". Se ainda não se sente convencido em trocar seu ambiente de produção para Linux, fique tranquilo que depois faremos um "Guia de Docker para usuários pesados de Windows". Mas vai demorar...  
 Se você quer somente usar Docker, o Windows dá um jeito. Se você quer ENTENDER e DOMINAR Docker, Linux é inevitável.
-<p align="center"> <img src="../../../Images/TuxAsThanos.png" width="100%"> <br> <em>"Eu sou Inevitável!"</em> </p>
+<p align="center"> <img src="../../Images/TuxAsThanos.png" width="100%"> <br> <em>"Eu sou Inevitável!"</em> </p>
 
 ## O que é "Containerização"?
 Imagine que você vai viajar para a Groenlândia — um país bem frio.  

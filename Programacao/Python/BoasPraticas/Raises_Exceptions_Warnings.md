@@ -1,3 +1,4 @@
+# Raises, Exceptions e Warnings
 Conheço um homem que certa vez disse:
 >Eu não cometo erros. Eu não sou como o todos vocês. E-eu sou mais forte. Mais esperto e... eu sou melhor! **Eu sou melhor!** Vocês aí deveriam agradecer a Cristo por eu ser quem eu sou, porque precisam de mim. Precisam que eu salve vocês. Vocês sabem. Que eu sou o único que pode salvar. Vocês não são os verdadeiros heróis. **Eu sou o verdadeiro herói.**
 

@@ -1,3 +1,4 @@
+# Closures
 Quais nomes na história não precisam ser nomeados para serem lembrados? 
 
 Pense nos indivíduos **MAIS FAMOSOS E INFLUENTES NA HISTÓRIA DA CIVILIZAÇÃO HUMANA**. Talvez você recorde de nomes como Jesus Cristo de Nazaré, Caio Júlio César, Michael Jackson, Albert Einstein, Sir Isaac Newton, Wolfgang Amadeus Mozart, Eu (Em algum momento no futuro)... pois bem, arquétipos que, para o bem ou para o mal, marcaram seu nome na história. Suas lendas estão marcadas no consciente coletivo da humanidade, tornando-se símbolos que não precisam ser nomeados.
