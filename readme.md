@@ -98,6 +98,7 @@ Novos artigos são feitos periodicamente, então sinta-se livre para pedir algum
 - [Pandas](Pandas.md) - Biblioteca para manipulação de datasets no Python. Aqui você também terá insights sobre Kung-Fu.
 ### 📖 Conceitos
 - [Closures](Programacao/Python/Conceitos/Closures.md) - Funções aninhadas que retornam funções e memorizam estados anteriores. ELEGANTE!!!
+- [With e Rollbacks](Programacao/Python/Conceitos/with.md) - O que você faria se pudesse voltar no tempo? Eu combateria "A Organização". El Psy Congroo!!
 ### 🦄 Boas Práticas
 - [Docstrings](Programacao/Python/BoasPraticas/Docstrings.md) - Strings para documentação de funções de uma forma como você nunca viu!
 - [Raises, Exceptions e Warnings](Programacao/Python/BoasPraticas/Raises_Exceptions_Warnings.md) - Artigo inútil para seres perfeitos. Se você é uma pessoa que erra, talvez valha a pena ler.
