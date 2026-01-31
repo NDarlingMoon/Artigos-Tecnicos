@@ -57,7 +57,7 @@ Falando em outros termos...
 Agora que sabemos os conceitos, como podemos criar Containers?
 
 # 神光あれと言たまひければ光ありき (Deus falou "Haja Luz", e então houve Luz)
-Infelizmente, **ainda** não somos poderosos o bastante para criar Containers como um Demiurgo ordenando a criação, então, necessitamos criar "Dockerfiles". Ele se parece com isso:
+Infelizmente, **ainda** não somos poderosos o bastante para criar Containers como um Demiurgo ordenando a criação, então, necessitamos criar uma "Dockerfile". Ela se parece com isso:
 ```dockerfile
 FROM fedora:latest
 RUN dnf install -y python3
