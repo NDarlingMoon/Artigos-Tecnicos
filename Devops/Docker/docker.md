@@ -134,7 +134,7 @@ RUN conda install -y python3
 ```
 
 Mas o Anaconda já vem com o Python instalado, então não seria necessário executar isso. O importante aqui é entender que o `RUN` irá executar comandos para instalação de dependências e configuração de tudo que irá dentro do Container.  
-Aliás, o `-y` é obrigatório. Se você estivesse utilizando esse comando dentro do Terminal, uma mensagem apareceria perguntando "Deseja instalar? Digite 'y' para Sim e 'n' para não". Mas o Docker não terá um Console para que você possa digitar essas informações, então precisará definir tudo já no comando.
+Aliás, o `-y` é obrigatório. Se você estivesse utilizando esse comando dentro do Terminal, uma mensagem apareceria perguntando "Deseja instalar? Digite 'y' para Sim e 'n' para Não". Mas o Docker não terá um Console para que você possa responder, então precisará definir tudo já no comando.
 
 E a terceira linha? O que ela faz?
 
