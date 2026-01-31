@@ -57,6 +57,7 @@ Quando todo o código dentro do `with` for executado, então o "CleanUp", **`def
 - `exc_type` - O tipo de erro;
 - `exc_value` - A mensagem de erro;
 - `exc_tb` - O local onde ocorreu o erro (Traceback).  
+
 Caso tenha ocorrido algum erro, então o erro estará registrado em `exc_type`. Caso tudo esteja certo, `exc_type` será `None`. Dois caminhos seguirão, um caso não haja erros e outro caso ocorra tudo errado.  
 Por fim, `__exit__()` poderá executará algo (Independentemente se der erro ou não) e retornará `True` caso o erro tenha sido suprimido, e `False` caso o código vá seguir com o erro.
 
