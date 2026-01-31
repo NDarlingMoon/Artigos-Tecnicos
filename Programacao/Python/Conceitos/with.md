@@ -181,7 +181,8 @@ with sqlite3.connect("pokemons.db") as connection:
 ```
 
 Não é necessário criar uma classe com `__exit__()` e `__enter__()` pois `sqlite3` já possui uma implementação nativa.  
-Em outros casos, não é preciso criar classe quando se trata de uma implementação simples. Existe o Decorator `@contextmanager`. Basta criar um método simples e adicioná-lo que o Decorator criará `__exit__()` e `__enter__()` automaticamente. Pessoalmente, prefiro criar classes completas para ter melhor controle sobre, mas `@contextmanager` é uma opção.
+Em outros casos, não é preciso criar classe quando se trata de uma implementação simples: Existe o Decorator `@contextmanager`. Basta criar um método simples e adicioná-lo que o Decorator criará `__exit__()` e `__enter__()` automaticamente.  
+Pessoalmente, prefiro criar classes completas para ter melhor controle sobre, mas `@contextmanager` é uma opção.
 
 ```python
 from contextlib import contextmanager
