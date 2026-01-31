@@ -112,8 +112,10 @@ class SafeExcelContext:
         if exc_type is None:
             try:
                 self.save_changes()
+                
             except Exception as e:
                 self.rollback()
+                
         else:
             self.rollback()
         
@@ -140,6 +142,7 @@ class SafeExcelContext:
         if self.backup_path and self.backup_path.exists():
             try:
                 os.unlink(self.backup_path)
+                
             except OSError:
                 pass
     
@@ -162,7 +165,7 @@ with SafeExcelContext("pokemons.xlsx") as df:
     df.rename(columns={"Pokemon": "Pokémon"}, inplace=True)
 ```
 
-O que `__enter__()` fez? Ele inicializa a Engine para leitura do arquivo Excel e o lê, levantando possíveis erros que possam ocorrer na leitura.
+O que `__enter__()` fez? Ele inicializa a Engine para leitura do arquivo Excel e o lê, levantando possíveis erros que possam ocorrer na leitura.  
 O que `__exit__()` faz? Aqui a coisa fica legal... Qualquer alteração que tenha sido feita dentro do bloco, no caso, renomear a coluna "Pokemon" para "Pokémon", adicionando um acento, é salva, sobrescrevendo o arquivo. Caso dê algum erro? Desfaz qualquer alteração que tenha sido feita.  
 Independentemente se deu erro ou não, `__exit__()` faz uma limpeza geral para não deixar rastros pesando.
 
