@@ -3,6 +3,7 @@ _Atenção: Não confundir o **Modelo de Tobit** com a série de anime/mangá **
 O **Modelo de Tobit**, também chamado de **Regressão de Tobit** é um modelo estatístico utilizado quando a variável dependente é **censurada**. 
 <p align="center"> <img src="../../../Images/CensoredDolphin.png"> <br> <em>Sim. O G0lf!%$# também foi c#n$%#@%$.</em> </p>Na prática, o que significa "ter uma variável censurada"? Significa que ela pode não representar o que realmente representa, que ela pode estar oculta e não demonstrando seu verdadeiro valor real.
 Em outros termos... Imagine uma tabacaria que vende maconha (Em Las Vegas, pois lá é legalizado). Todo mês o dono anota quantas gramas de erva cada cliente comprou para uma promoção de descontos cumulativos. Em determinado mês, ele anotou os seguintes dados:
+
 - Winter: Comprou 20g de maconha  
 - Flipper: Comprou 5g de maconha  
 - Hope: Comprou 0g de maconha  
