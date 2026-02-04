@@ -69,25 +69,25 @@ Abaixo você pode consultar o sumário, com links para cada artigo.
 Novos artigos são feitos periodicamente, então sinta-se livre para pedir algum específico que ainda não esteja por aqui.
 
 ## 📊 Artigos sobre Estatística
-- [Estatística Para Burros](Estatistica/readme.md) - Nosso curso politicamente incorreto para que você aprenda do básico ao avançado em Estatística.
-- [Modelos](Estatistica/Modelos/readme.md) - Aqui você pode aprender sobre diversos modelos matemáticos e estatísticos como ANOVA, ARIMA, Regressão Linear, PCA, Chobits, entre outros.
+- [Estatística Para Burros](Estatistica/readme.md) - Nosso curso politicamente incorreto para que você aprenda do básico ao avançado em Estatística. **_(Em Construção)_**
+- [Modelos](Estatistica/Modelos/readme.md) - Aqui você pode aprender sobre diversos modelos matemáticos e estatísticos como ANOVA, ARIMA, Regressão Linear, PCA, Chobits, entre outros. **_(Em Construção)_**
 
 ## 🤖 DevOps
 ### 🐋 Conteinerização 
-- [Docker](Devops/Docker/docker.md) - Pare de dizer "No meu PC roda". Aprenda a empacotar seu código como um profissional!
-- [Kubernetes](Devops/K8s/kubernetes.md) - Quando um Docker só não é o bastante. 
+- [Docker](Devops/Docker/docker.md) - Pare de dizer "No meu PC roda". Aprenda a empacotar seu código como um profissional! **_(Em Construção)_**
+- [Kubernetes](Devops/K8s/kubernetes.md) - Quando um Docker só não é o bastante. **_(Em Construção)_**
 ### 🛠️ CI/CD (Automação de Fluxo) 
-- [GitHub Actions](Devops/Actions.md) - Automatize seus Testes, Builds e Deploy como um *Master of Puppets*.
+- [GitHub Actions](Devops/Actions.md) - Automatize seus Testes, Builds e Deploy como um *Master of Puppets*. **_(Em Construção)_**
 ### ☁️ Infraestrutura como Código (IaC) 
-- [Terraform](Devops/Terraform.md) - Crie servidores inteiros digitando apenas algumas linhas de texto. 
-- [Ansible](Devops/Ansible.md) - Configure +8000 máquinas ao mesmo tempo sem precisar sair da sua cadeira. 
+- [Terraform](Devops/Terraform.md) - Crie servidores inteiros digitando apenas algumas linhas de texto. **_(Em Construção)_**
+- [Ansible](Devops/Ansible.md) - Configure +8000 máquinas ao mesmo tempo sem precisar sair da sua cadeira. **_(Em Construção)_**
 ### 📈 Monitoramento e Logs 
-- [Prometheus & Grafana](Devops/Monitoring.md) - Gráficos bonitos para você saber quando seu servidor está prestes a explodir.
+- [Prometheus & Grafana](Devops/Monitoring.md) - Gráficos bonitos para você saber quando seu servidor está prestes a explodir. **_(Em Construção)_**
 
 ## ®️ Artigos sobre R
 ### 📚 Bibliotecas
 - [Pacman](Programacao/R/Bibliotecas/Pacman.md) - Biblioteca para gerenciamento de bibliotecas no R (PS: Artigo assombrado por 4 fantasmas).
-- [StringR](Stringr.md) - Biblioteca para manipulação de strings no R.
+- [StringR](Stringr.md) - Biblioteca para manipulação de strings no R. **_(Em Construção)_**
 ### 📖 Conceitos
 ### 🦄 Boas Práticas
 ### 🛠️ Ferramentas
@@ -95,13 +95,13 @@ Novos artigos são feitos periodicamente, então sinta-se livre para pedir algum
 
 ## 🐍 Artigos sobre Python
 ### 📚 Bibliotecas
-- [Pandas](Pandas.md) - Biblioteca para manipulação de datasets no Python. Aqui você também terá insights sobre Kung-Fu.
+- [Pandas](Pandas.md) - Biblioteca para manipulação de datasets no Python. Aqui você também terá insights sobre Kung-Fu. **_(Em Construção)_**
 ### 📖 Conceitos
 - [Closures](Programacao/Python/Conceitos/Closures.md) - Funções aninhadas que retornam funções e memorizam estados anteriores. ELEGANTE!!!
 - [With e Rollbacks](Programacao/Python/Conceitos/with.md) - O que você faria se pudesse voltar no tempo? Eu combateria "A Organização". El Psy Congroo!!
 ### 🦄 Boas Práticas
 - [Docstrings](Programacao/Python/BoasPraticas/Docstrings.md) - Strings para documentação de funções de uma forma como você nunca viu!
-- [Documentações Orgásmicas](Programacao/Python/BoasPraticas/DocumentacoesOrgasmicas.md) - Escreva documentações que já servem como preliminares.
+- [Documentações Orgásmicas](Programacao/Python/BoasPraticas/DocumentacoesOrgasmicas.md) - Escreva documentações que já servem como preliminares. **_(Em Construção)_**
 - [Raises, Exceptions e Warnings](Programacao/Python/BoasPraticas/Raises_Exceptions_Warnings.md) - Artigo inútil para seres perfeitos. Se você é uma pessoa que erra, talvez valha a pena ler.
-- [Testes Unitários e Mocks](Programacao/Python/BoasPraticas/testsandmocks.md) - Só me descobri Bissexual após testar pegar gente dos mais variados gêneros. Ficar só imaginando não prova nada... tem que testar. Sim, estamos falando sobre Programação.
+- [Testes Unitários e Mocks](Programacao/Python/BoasPraticas/testsandmocks.md) - Só me descobri Bissexual após testar pegar gente dos mais variados gêneros. Ficar só imaginando não prova nada... tem que testar. Sim, estamos falando sobre Programação. **_(Em Construção)_**
 ### 🛠️ Ferramentas
