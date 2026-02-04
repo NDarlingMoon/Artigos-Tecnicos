@@ -30,7 +30,7 @@ Novos artigos são feitos periodicamente, então sinta-se livre para pedir algum
 ## Intermediário (Mas você é um Gênio! Não se preocupe)
 - [Pontuação Padrão](zscore.md) - Certa vez disseram "Você é o mais forte por ser Son Goku ou é Son Goku pois é o mais forte?". De qualquer forma... Son Goku está bem acima da média.
 - [Inferências](inferencia.md) - "OBJECTION!!!" — Wright, Phoenix
-- [Clusterização, Agrupamento e Classificação](cac.md) - Se formos medir o grau de genialidade das pessoas, seria injusto comparar quem leu este guia de quem não leu, afinal, nossos resultados são **SUUUUPER** mais altos. Estamos em uma categoria separada de Übermenschen intelectuais.
+- [Clusterização, Agrupamento e Classificação](cac.md) - Se formos medir o grau de genialidade das pessoas, seria injusto comparar quem leu este guia com quem não leu, afinal, nossos resultados são **SUUUUPER** mais altos. Estamos em uma categoria separada de Übermenschen intelectuais.
 - [Modelos](models.md) - Modelos Estatísticos não explicam a vida real, só tentam demonstrar algo. Perfeição de verdade, somente Jojo's Bizarre Adventure. Modelo nenhum vai ser perfeito, eles só te ajudam a pensar.
 - [ANOVA](anova.md) - Qual a média de orgasmos por semana entre Homossexuais, Bissexuais e Heterossexuais? Com ANOVA, podemos comparar as médias de vários grupos diferentes e comprovar que a mulher hétero sofre demais (Ainda bem que jogo em todos os times).
 
