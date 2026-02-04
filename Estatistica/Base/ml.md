@@ -13,7 +13,7 @@ Segundo que "Inteligência Artificial" não se trata de robôs com aparência hu
 
 E o Machine Learning especificamente? O chamado "Aprendizado de Máquina" nada mais é do que um algoritmo com **BILHÕES DE DADOS** treinado para reconhecer padrões.  
 Por exemplo, o computador não sabe o que é um gato. Você então mostra 50 000 000 000 de fotos de gatos para ele e diz "Isso é um gato". Se ele visualizar outra foto de gato, irá reconhecer padrões de fotos mostradas anteriormente para dizer "Isso é um gato!" sozinho.  
-Ou então, imagine que você quer criar um algoritmo capaz de identificar criminosos. Você mostra BILHÕES de fotos de criminosos para ele, o treinando para identificar padrões. Quando ele visualizar a foto de uma pessoa, analisará os padrões e dirá "É um criminoso".  
+Ou então, imagine que você quer criar um algoritmo capaz de identificar criminosos. Você mostra BILHÕES de fotos de criminosos para ele, o treinando para identificar padrões. Quando ele visualizar a foto de uma pessoa, analisará os padrões e dirá "É um criminoso!".  
 Seria perfeito, não? Prender pessoas antes mesmo que cometam crimes faria uma sociedade mais segura. Ou... Espera...
 
 
@@ -24,7 +24,7 @@ Qual é a "cara do crime?" Treinar um modelo de ML (Machine Learning) com dados 
 > 🤓☝️ "Actually, se negros são a maioria dos presos, então o algoritmo não estaria totalmente errado. Dados nunca mentem."
 
 Primeiramente, vai se foder.  
-Segundamente, dados precisam de contexto, e isso é perigoso. Algoritmos de ML apenas reconhecem padrões nos dados, não entendem o contexto deles. Ele pode inferir uma coisa, mas, fora de contexto, tem uma conotação totalmente diferente.  
+Segundamente, dados precisam de contexto, e isso é perigoso. Algoritmos de ML apenas reconhecem padrões nos dados, não entendem o contexto deles. Eles podem inferir uma coisa, mas, fora de contexto, os dados têm uma conotação totalmente diferente.  
 Por isso algoritmos são extremamente perigosos. Como ele vai definir quem é criminoso ou não? Quem é mulher ou não? Quem merece algo ou não? Ele não vai. O modelo não define nada, ele apenas classifica segundo um critério que você mesmo escolheu.  
 ML apenas nos ajuda a encontrar padrões que vão se repetir (Ou não) no futuro, jamais prevê-lo de fato.  
 Dados de fato não mentem... Quem mente é o contexto, e quem coletou os dados.
