@@ -1,7 +1,10 @@
 <p align="center"> <img src="../../Images/StormOfTheLightBane.png" width="100%"> <br> <em>Estamos chegando ao final da nossa trilha de <b>Estatística para Burros</b>.
 <br />Preparados para conhecer o anjo da morte?
 <br />A partir daqui, o conteúdo se tornará ainda mais sádico.</em></p>
+
+
 # Machine Learning
+
 
 Infelizmente, os filmes mentiram para nós quando falaram "Inteligência Artificial".  
 Primeiro que o computador não é inteligente, é burro pra caralho.  
